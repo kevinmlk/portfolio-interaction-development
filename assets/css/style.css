@@ -9,3 +9,20 @@ body {
   color: var(--xd-white);
   font-family: 'Space Grotesk', sans-serif;
 }
+
+.card {
+  background-color: transparent;
+}
+
+.card-img-top {
+  border-radius: 12px;
+}
+
+.card-title {
+  color: var(--xd-white);
+}
+
+.card-link {
+  text-decoration: none;
+  color: var(--xd-white);
+}
